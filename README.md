@@ -1,5 +1,5 @@
 # HANG-MAN-GAME
-Live Site: http://127.0.0.1:5500/index.html
+Live Site: http://127.0.0.1:5500/index.html        
 The Hangman Game is a classic word-guessing game built using HTML, CSS, and JavaScript. It challenges players to guess a secret word by guessing one letter at a time. The game interface will be intuitive and visually appealing, enhancing the user experience while providing a fun and engaging gaming environment.
 
 Key Features:
